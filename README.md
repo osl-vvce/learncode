@@ -1,32 +1,31 @@
- # Vidyaratna  :gem:
+# LearnCode :gem:
 
-Vidyaratna (Jewel of Learning) is an initiative to provide a comprehensive curriculum for students to learn about computer science development and open source. This is a curated list of tutorials, guides and everything a beginner needs to know. 
+LearnCode (Jewel of Learning) is an initiative to provide a comprehensive curriculum for students to learn about computer science development and open source. This is a curated list of tutorials, guides and everything a beginner needs to know.
 
 ## Table of Contents
 
-* [Linux](#linux)
-* [CS50](#cs50)
-* [Android](#android)
-* [Ruby](#ruby)
-* [Ruby On Rails](#ruby-on-rails)
-* [Python](#python)
-* [Presentation Skills](#presentation-skills)
-* [Blogging](#blogging)
-* [Git](#git)
-* [Git with Software Development Platforms](#git-with-software-development-platforms)
-* [Web Development](#web-development)
-* [Cyber Security](#cyber-security)
-* [Qt Framework](#qt-framework)
+- [Linux](#linux)
+- [CS50](#cs50)
+- [Android](#android)
+- [Ruby](#ruby)
+- [Ruby On Rails](#ruby-on-rails)
+- [Python](#python)
+- [Presentation Skills](#presentation-skills)
+- [Blogging](#blogging)
+- [Git](#git)
+- [Git with Software Development Platforms](#git-with-software-development-platforms)
+- [Web Development](#web-development)
+- [Cyber Security](#cyber-security)
+- [Qt Framework](#qt-framework)
 
-
-## Linux 
+## Linux
 
 **Why Linux?**
-- Open source : apart from Linux's source code being readable to anyone, it also means that there is a whole community to support when you face issues plus it is secure comparing to other closed source OSes.
-- Ease of development : programming and development in general, is a far better experience in Linux than in other OSes. 
-- You do things on your own : there is a lot of learning when you use Linux, you get to understand many things about an OS and a get a touch of how everything works under the hood.
-Read more about Linux [here](https://opensource.com/resources/linux)
 
+- Open source : apart from Linux's source code being readable to anyone, it also means that there is a whole community to support when you face issues plus it is secure comparing to other closed source OSes.
+- Ease of development : programming and development in general, is a far better experience in Linux than in other OSes.
+- You do things on your own : there is a lot of learning when you use Linux, you get to understand many things about an OS and a get a touch of how everything works under the hood.
+  Read more about Linux [here](https://opensource.com/resources/linux)
 
 **Installation and Dual-booting**
 
@@ -34,20 +33,20 @@ It is generally recommended to go with the latest LTS release of Ubuntu (18.04.2
 
 - [Install Ubuntu desktop | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0)
 - [How To Install Ubuntu Along With Windows - It's FOSS](https://itsfoss.com/install-ubuntu-dual-boot-mode-windows/)
--  [How To Dual Boot Windows 8.1 And Debian Jessie](https://www.lifewire.com/dual-boot-windows-8-1-debian-jessie-2202088)
-- [Installing Linux over Free DOS](https://www.linuxquestions.org/questions/linux-newbie-8/need-help-with-installing-linux-from-free-dos-899812/) 
+- [How To Dual Boot Windows 8.1 And Debian Jessie](https://www.lifewire.com/dual-boot-windows-8-1-debian-jessie-2202088)
+- [Installing Linux over Free DOS](https://www.linuxquestions.org/questions/linux-newbie-8/need-help-with-installing-linux-from-free-dos-899812/)
 
-[Common issues faced during Installation](https://github.com/amfoss/vidyaratna/blob/initial/beginners/0_install_linux.md#common-errors-and-issues)
+[Common issues faced during Installation](https://github.com/osl-vvce/learncode/blob/master/beginners/0_install_linux.md)
 
 **Common terminal commands and Bash Scripting**
 
 - [Basic Linux Commands for Beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
-- [What is a Bash Script? - Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php) 
+- [What is a Bash Script? - Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)
 
 **Desktop Customisation**
 
 - [Customize Ubuntu 18.04 GNOME With These Simple Tips](https://itsfoss.com/gnome-tricks-ubuntu/)
-- [7 cool KDE tweaks that will change your life](https://opensource.com/article/17/5/7-cool-kde-tweaks-will-improve-your-life) 
+- [7 cool KDE tweaks that will change your life](https://opensource.com/article/17/5/7-cool-kde-tweaks-will-improve-your-life)
 
 **Tips and tricks**
 
@@ -55,9 +54,7 @@ It is generally recommended to go with the latest LTS release of Ubuntu (18.04.2
 - [Play This Game for Getting Familiar With a Command Line Editor](https://vim-adventures.com/)
 - [Using Shell Scripting to Automate Linux System Maintenance Tasks](https://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/)
 
-
-For a more detailed look into the Linux commands, Bash scripting and more, go through [this book](https://liquidtelecom.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf) 
-
+For a more detailed look into the Linux commands, Bash scripting and more, go through [this book](https://liquidtelecom.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf)
 
 #### Laptop Suggestions
 
@@ -65,8 +62,7 @@ Generally speaking, laptops that come preinstalled with Ubuntu are highly recomm
 
 There are an overwhelming number of processors out there, it's best to go with a laptop with the latest - up to date generation of Intel i3, i5 or an i7 processor.
 
-If there is need for a device with graphics card, it is highly recommended to get one with NVIDIA graphics to use the CUDA technology. Regarding RAM, any system with 8GB or more RAM is going to fine. And if you get one with 4GB, you can usually upgrade it to 8GB or more. Also if you have enough budget, consider getting a system with an SSD instead of an HDD. 
-
+If there is need for a device with graphics card, it is highly recommended to get one with NVIDIA graphics to use the CUDA technology. Regarding RAM, any system with 8GB or more RAM is going to fine. And if you get one with 4GB, you can usually upgrade it to 8GB or more. Also if you have enough budget, consider getting a system with an SSD instead of an HDD.
 
 ## CS50
 
@@ -76,10 +72,9 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [CS50-Youtube](https://www.youtube.com/user/cs50tv/featured)
 - [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
-
 ## Android
 
-### Programming Langauges 
+### Programming Langauges
 
 #### Java
 
@@ -150,7 +145,6 @@ If there is need for a device with graphics card, it is highly recommended to ge
 
 - [Project Euler](https://projecteuler.net/)
 
-
 ## Presentation Skills
 
 - [How to make a good presentation with 8 pro tips | Biteable](https://biteable.com/blog/tips/how-to-make-good-presentation/)
@@ -159,30 +153,29 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [How to give a good presentation](https://www.princeton.edu/~archss/webpdfs08/BaharMartonosi.pdf)
 - [14 PowerPoint Presentation Tips to Make More Creative Slideshows](https://blog.hubspot.com/marketing/easy-powerpoint-design-tricks-ht)
 
-
 ## Blogging
 
 **Best Practices**
+
 - [How to write a great technical blog post | freeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/)
 - [How to Write an Awesome Blog Post ](https://www.wordstream.com/blog/ws/2015/02/09/how-to-write-a-blog-post)
 
 **Blogging Platforms**
+
 - [WordPress Blog Creation: How To Start A Free Blog Guide](https://startbloggingonline.com/how-to-start-a-blog-on-wordpress-com/)
 - [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
-
 ## Git
+
 - [Official Git Book](https://git-scm.com/book/en/v2)
 - [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
 - [Collaborating With Git](https://yash2k.wordpress.com/2019/02/17/collaborating-with-git/)
-
 
 ## Git with Software Development Platforms
 
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Learning Git with Bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 - [Git and GitLab](https://docs.gitlab.com/ee/topics/git/)
-
 
 ## Web Development
 
@@ -200,28 +193,28 @@ If there is need for a device with graphics card, it is highly recommended to ge
 - [Learn React | KIRUPA](https://www.kirupa.com/react/)
 - [Angular JS Tutorial | W3Schools](https://www.w3schools.com/angular/default.asp)
 
-
 ## Cyber Security
 
 - [General CTF Learning Resources - InCTF](https://resources.bi0s.in)
 - [bi0s wiki](https://wiki.bi0s.in)
 - [Cyber Security Resources](https://github.com/NAVHITS/cyber-security-resources)
 
-
 ## Qt Framework
 
 ### C++
+
 - Awareness of syntax in modern C++ (C++11 and above)
 - Knowledge of classes and core OOP concepts implemented using C++ (Encaspulation, Abstraction, Inheritance and Polymorphism)
 - Awareness of how pointers, references work and what and why [smart pointers](https://en.cppreference.com/book/intro/smart_pointers) are used in modern C++
-- Using [STL (Standard Template Library)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) - usage of all data structures could be practiced in [Hackerrank](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=stl) or [similar websites](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) using STL for a better understanding. 
+- Using [STL (Standard Template Library)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) - usage of all data structures could be practiced in [Hackerrank](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=stl) or [similar websites](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) using STL for a better understanding.
 - Basic awareness of concepts like Dynamic memory allocation, [RAII](https://en.cppreference.com/w/cpp/language/raii), [Templates](http://www.cplusplus.com/doc/oldtutorial/templates/), [lambda expressions](https://www.geeksforgeeks.org/lambda-expression-in-c/)
 
-### Qt 
+### Qt
 
 - [Official Documentation](https://doc.qt.io/)
 - [Qt Crash Course](https://www.cleanqt.io/blog/crash-course-in-qt-for-c%2B%2B-developers,-part-1)
 - [QML](https://qmlbook.github.io/)
 
 Recommended:
+
 - Test out the example applications given in Qt Creator, concepts like signal/slot mechansim must be understood by reading code.
